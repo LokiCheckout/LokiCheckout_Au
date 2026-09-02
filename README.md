@@ -1,6 +1,6 @@
 # LokiCheckout_Au
 
-**This Magento 2 module is an add-on package for the country `Au`.
+**This Magento 2 module is an add-on package for Australia.
 
 ## Installation
 Install this package via composer:
